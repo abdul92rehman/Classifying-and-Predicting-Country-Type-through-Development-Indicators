@@ -1,0 +1,2 @@
+# Classifying-and-Predicting-Country-Type-through-Development-Indicators
+In this project supervised and unsupervised learnings are used for data analysis, unsupervised learning is used for dimensionality reduction of data and supervised learning is used for classification of data. Kernel principal component analysis is an unsupervised technique which reduce the dimensionality of independent variables without losing much information.
